@@ -1,10 +1,10 @@
 {
-"Title": "🎉 سال نو مبارک 🎉",
-"Description": "به امید خدا تو این سال جدید به خواسته‌هات برسی و از ته دل شاد باشی 😍❤️\nاگر مشکلی با فیلترشکنت داری یا سوال داری عضو گروه رفع اشکال بشو ما کمکت میکنیم👇🏻",
-"Link": "tg://join?invite=ss7Nrtv77NQ5MTk0",
-"ColorWave": "#76FF03",
-"Color": "#76FF03",
-"ColorWaveTwo": "#64DD17",
+"Title": "☆  بروزرسانی جدید  ☆",
+"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
+"Link": "tg://resolve?domain=Farsroid_Club",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "true",
-"MessageID": "0193877766291000",
-"ShowTime": "3",
-"Button": " عضویت فوری ",
-"ButtonCancell": " نمیخوام ",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  دریافت نسخه جدید  ",
+"ButtonCancell": " بعدا ",
 "Closure": "true",
 "Show": "on"
 }
